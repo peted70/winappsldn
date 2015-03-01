@@ -12,7 +12,7 @@ namespace WinAppsLdnAPI.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "miket", "peted" };
+            return new string[] { "miket", "peted", "linust" };
         }
 
         // GET api/values/5
